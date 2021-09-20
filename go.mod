@@ -3,7 +3,7 @@ module github.com/tendermint/spm
 go 1.17
 
 require (
-	github.com/cosmos/cosmos-sdk v0.44.0
+	github.com/cosmos/cosmos-sdk v0.43.0
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/spf13/cast v1.3.1
